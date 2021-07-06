@@ -338,7 +338,7 @@ html{
   list-style: none;
 }
 
-/* @media only screen and (min-width: 1000px) {
+ @media only screen and (min-width: 1000px) {
 
   .container{
     width: 100%;
@@ -459,7 +459,7 @@ html{
   }
 
   .features-item__img{
-    width: 720px;
+    width: 50%;
     height: 600px;
   }
 
@@ -480,16 +480,16 @@ html{
 
   .item-features{
     background-image: url(../img/cherry-desktop.png);
-    width: 770px;
+    width: 50%;
   }
 
   .item-two{
     background-image: url(../img/mandarin-desktop.png);
-    width: 720px;
+    width: 50%;
   }
 
   .item-yellow__img{
-    width: 672px;
+    width: 50%;
   }
 
   .item-features__title{
@@ -502,7 +502,7 @@ html{
   .title-two{
     margin: 0;
     padding: 0;
-    margin-left: 155px;
+    margin-left: 185px;
   }
 
   .item-features__text{
@@ -510,4 +510,4 @@ html{
     padding-right: 190px;
   }
 
-} */
+}
