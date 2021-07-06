@@ -729,5 +729,33 @@ html{
   margin-bottom: 0;
 }
 
+/* IMAGES */
+
+.images-big--wrapper{
+  display: flex;
+  align-items: center;
+}
+
+.image{
+  width: 100%;
+  height: 447px;
+}
+
+/* FOOTER */
+
+.site-footer{
+  padding-left: 0;
+  padding-left: 572px;
+}
+
+.logo-footer{
+  padding-left: 0;
+  padding-left: 60px;
+}
+
+.networks-list{
+  padding-left: 0;
+  padding-left: 60px;
+}
 
 }
