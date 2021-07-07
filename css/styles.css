@@ -711,6 +711,7 @@ html{
   flex-direction: row;
   padding-left: 165px;
   padding-right: 165px;
+  justify-content: center;
 }
 
 .clients-item{
